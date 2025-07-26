@@ -1,4 +1,4 @@
-This repository contains a simple introduction and usage examples of the most commonly used machine learning libraries in Python. It is intended for beginners who are starting their journey in the field of data science and machine learning.
+This repository contains a simple introduction and usage examples of the most commonly used machine learning libraries in Python.It is intended for beginners who are starting their journey in the field of data science and machine learning.
 
 a.py 
 ![image](https://github.com/user-attachments/assets/c986d881-4325-4d9a-9b0e-16011be018ad)
